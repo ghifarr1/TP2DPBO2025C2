@@ -13,6 +13,8 @@ Program di desain untuk saling berhubungan dengan relasi "is a" atau inheritance
 Pada method nya dari tiap kelasnya hanya memiliki method setter dan getter untuk masing-masing atribut nya, sedangkan child class paling bawah memiliki method fitur yang dapat dipergunakan user untuk memanipulasi data.
 
 - Berikut adalah foto dari desain relasi Object pada program
+
+
 ![Phase 1](FotoDesainDiagram.png)
 
 
